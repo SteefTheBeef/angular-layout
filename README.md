@@ -12,6 +12,11 @@ Fast and beautiful template building and great for prototyping.
 <btn-danger-sm>Small</btn-danger-sm>
 <btn-danger-xs>Extra small</btn-danger-xs>
 ```
+Instead of this
+```
+<button type="button" class="btn btn-danger btn-lg">Large</button>
+```
+and so forth...
 #### Default buttons
 ```
 <btn-default-lg>Large</btn-default-lg>
