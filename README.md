@@ -5,6 +5,8 @@ Fast and beautiful template building and great for prototyping.
 
 ## Buttons
 
+Buttons are available in four sizes lg, normal, sm and xs
+
 #### Danger buttons
 ```
 <btn-danger-lg>Large</btn-danger-lg>
@@ -18,12 +20,7 @@ Instead of this
 ```
 and so forth...
 #### Default buttons
-```
-<btn-default-lg>Large</btn-default-lg>
-<btn-default>Normal</btn-default>
-<btn-default-sm>Small</btn-default-sm>
-<btn-default-xs>Extra small</btn-default-xs>
-```
+``<btn-default>Normal</btn-default>`` add -lg, -sm or -xs for different sizing
 #### Info buttons
 ```
 <btn-info-lg>Large</btn-info-lg>
