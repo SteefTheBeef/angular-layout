@@ -3,6 +3,12 @@
 Directives for common layout components in Twitter bootstrap. 
 Fast and beautiful template building and great for prototyping.
 
+## Alerts
+**alert success** - `<alert-success>Way to go!</alert-success>`
+
+**alert info** - `<alert-info>{{data.info}}</alert-info>`
+
+**alert warning** - `<alert-warning>{{data.info}}</alert-warning>`
 ## Buttons
 
 Buttons are available in four sizes lg, normal, sm and xs
