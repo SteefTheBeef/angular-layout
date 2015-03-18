@@ -46,3 +46,10 @@ versus
 versus 
 
 ``<div class="btn-group-vertical" role="group" aria-label="vertical button group">...</div>``
+
+#### Button toolbar
+``<btn-toolbar>...</btn-toolbar>`` 
+
+versus 
+
+``<div class="btn-toolbar" role="group" aria-label="button toolbar"></div>``
