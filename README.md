@@ -12,6 +12,13 @@ Fast and beautiful template building and great for prototyping.
 
 **alert danger** - `<alert-danger>danger zone!</alert-danger>`
 
+## Misc
+**badge** - `<badge>{{count}}</badge>`
+
+**blockquote reverse** - `<blockquote-reverse>text...</blockquote-reverse>`
+
+**breadcrumb** - `<breadcrumb><li>...</li></breadcrumb>`
+
 ## Buttons
 
 Buttons are available in four sizes lg, normal, sm and xs
