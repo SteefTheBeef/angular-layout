@@ -31,3 +31,21 @@ and so forth...
 <btn-info-sm>Small</btn-info-sm>
 <btn-info-xs>Extra small</btn-info-xs>
 ```
+#### Primary buttons
+```
+<btn-primary-lg>Large</btn-primary-lg>
+<btn-primary>Normal</btn-primary>
+<btn-primary-sm>Small</btn-primary-sm>
+<btn-primary-xs>Extra small</btn-primary-xs>
+```
+#### Warning buttons
+```
+<btn-warning-lg>Large</btn-warning-lg>
+<btn-warning>Normal</btn-warning>
+<btn-warning-sm>Small</btn-warning-sm>
+<btn-warning-xs>Extra small</btn-warning-xs>
+```
+#### Button group
+```
+<btn-group>...</btn-group>
+```
