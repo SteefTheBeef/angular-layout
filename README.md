@@ -35,3 +35,6 @@ Add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, this
 
 #### Button group
 ``<btn-group>...</btn-group>`` versus ``<div class="btn-group" role="group" aria-label="button group">...</div>``
+
+#### Button group vertical
+``<btn-group-vertical>...</btn-group-vertical>`` versus ``<div class="btn-group-vertical" role="group" aria-label="vertical button group">...</div>``
