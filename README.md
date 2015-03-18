@@ -41,4 +41,8 @@ versus
 ``<div class="btn-group" role="group" aria-label="button group">...</div>``
 
 #### Button group vertical
-``<btn-group-vertical>...</btn-group-vertical>`` versus ``<div class="btn-group-vertical" role="group" aria-label="vertical button group">...</div>``
+``<btn-group-vertical>...</btn-group-vertical>`` 
+
+versus 
+
+``<div class="btn-group-vertical" role="group" aria-label="vertical button group">...</div>``
