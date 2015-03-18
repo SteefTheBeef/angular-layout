@@ -21,13 +21,11 @@ Instead of this
 and so forth...
 #### Default button
 ``<btn-default>Normal</btn-default>`` as for danger button add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, you can do this for all button types.
+
 #### Info buttons
-```
-<btn-info-lg>Large</btn-info-lg>
+``
 <btn-info>Normal</btn-info>
-<btn-info-sm>Small</btn-info-sm>
-<btn-info-xs>Extra small</btn-info-xs>
-```
+``
 #### Primary buttons
 ```
 <btn-primary-lg>Large</btn-primary-lg>
