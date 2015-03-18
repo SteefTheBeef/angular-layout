@@ -33,8 +33,7 @@ Add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, this
 #### Warning button
 ``<btn-warning>Normal</btn-warning>``
 
-#### Button group
-``<btn-group>...</btn-group>`` 
+**Button group** - `<btn-group>...</btn-group>`
 
 versus 
 
