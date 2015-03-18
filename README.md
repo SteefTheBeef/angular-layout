@@ -20,7 +20,8 @@ Instead of this
 ```
 and so forth...
 #### Default button
-``<btn-default>Normal</btn-default>`` as for danger button add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, you can do this for all button types.
+``<btn-default>Normal</btn-default>`` 
+Add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, this applies to all button types.
 
 #### Info buttons
 ``
