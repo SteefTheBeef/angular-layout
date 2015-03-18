@@ -19,6 +19,17 @@ Fast and beautiful template building and great for prototyping.
 
 **breadcrumb** - `<breadcrumb><li>...</li></breadcrumb>`
 
+**caret** - `<caret></caret>`
+
+**container** - `<container></container>`
+
+**container fluid** - `<container-fluid></container-fluid>`
+
+**jumbotron** - `<jumbotron>...content...</jumbotron>`
+
+**page header** - `<page-header>Page title</page-header>`
+
+**well** - `<well>...content...</well>`
 ## Buttons
 
 Buttons are available in four sizes lg, normal, sm and xs
