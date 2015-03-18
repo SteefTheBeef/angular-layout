@@ -19,8 +19,8 @@ Instead of this
 <button type="button" class="btn btn-danger btn-lg">Large</button>
 ```
 and so forth...
-#### Default button
-``<btn-default>Normal</btn-default>``
+
+**Default button** - `<btn-default>Normal</btn-default>`
 
 Add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, this applies to all button types.
 
