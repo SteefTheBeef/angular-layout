@@ -34,4 +34,4 @@ Add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, this
 ``<btn-warning>Normal</btn-warning>``
 
 #### Button group
-``<btn-group>...</btn-group>``
+``<btn-group>...</btn-group>`` versus ``<div class="btn-group" role="group" aria-label="button group">...</div>``
