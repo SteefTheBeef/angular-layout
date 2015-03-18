@@ -8,7 +8,10 @@ Fast and beautiful template building and great for prototyping.
 
 **alert info** - `<alert-info>{{data.info}}</alert-info>`
 
-**alert warning** - `<alert-warning>{{data.info}}</alert-warning>`
+**alert warning** - `<alert-warning>hey, this is not good!</alert-warning>`
+
+**alert danger** - `<alert-danger>danger zone!</alert-danger>`
+
 ## Buttons
 
 Buttons are available in four sizes lg, normal, sm and xs
