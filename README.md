@@ -24,14 +24,11 @@ and so forth...
 
 Add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, this applies to all button types.
 
-#### Info button
-``<btn-info>Normal</btn-info>``
+**Info button** - `<btn-info>Normal</btn-info>`
 
-#### Primary button
-``<btn-primary>Normal</btn-primary>``
+**Primary button**- `<btn-primary>Normal</btn-primary>`
 
-#### Warning button
-``<btn-warning>Normal</btn-warning>``
+**Warning button** - `<btn-warning>Normal</btn-warning>`
 
 **Button group** - `<btn-group>...</btn-group>`
 
