@@ -86,6 +86,13 @@ In the simplest form: `<progress valuenow="50"></progress>`
 **striped="true"** - show stripes.    
 **active="true"** - animate stripes when **striped** is set to **true**  
 
+**Available progress bars** 
+**progress default** - `<progress></progress>`  
+**progress success** - `<progress-success></progress-success>`  
+**progress info** - `<progress-info></progress-info>`  
+**progress warning** - `<progress-warning></progress-warning>`   
+**progress danger** - `<progress-danger></progress-danger>`  
+
 ## Misc
 **badge** - `<badge>{{count}}</badge>`  
 **blockquote reverse** - `<blockquote-reverse>text...</blockquote-reverse>`  
