@@ -1,6 +1,6 @@
 # angular-layout
 
-Directives for common layout components in Twitter bootstrap. 
+Directives for common layout components in Twitter bootstrap.   
 Fast and beautiful template building and great for prototyping.
 
 ## Alerts
@@ -34,7 +34,39 @@ As an attribute `<cell lg-pull1>` or as a class `<cell class="lg-pull12">`
 **lg-push1** to **lg-push12** is equivalent to classes **col-lg-push-1** to **col-lg-push-12.**  
 As an attribute `<cell lg-push1>` or as a class `<cell class="lg-push12">`
 
-**md1-md12, md**
+**md1** to **md12**, **md-offset1** to **md-offset12**, **md-pull1** to **md-pull12**, **md-push1** to **md-push12**  
+**sm1** to **sm12**, **sm-offset1** to **sm-offset12**, **sm-pull1** to **sm-pull12**, **sm-push1** to **sm-push12**   
+**xs1** to **xs12**, **xs-offset1** to **xs-offset12**, **xs-pull1** to **xs-pull12**, **xs-push1** to **xs-push12**
+
+**Example**
+```
+<row>
+  <cell lg3 sm6>Left content</cell>
+  <cell lg5 sm4>Middle content</cell>
+  <cell lg4 sm2>Right content</cell>
+</row>
+```
+this is equivalent to
+```
+<div class="row">
+  <div class="col-lg-3 col-sm-6">Left content</div>
+  <div class="col-lg-5 col-sm-4">Middle content</div>
+  <div class="col-lg-4 col-sm-2">Right content</div>
+</div>
+```
+## Lists
+**dl horizontal** - `<dl-horizontal><dt>...</dt><dd>...</dd></dl-horizontal>`  
+**list inline** - `<list-inline><li>...</li></list-inline>`  
+**list unstyled** - `<list-unstyled><li>...</li></list-unstyled>` 
+
+## Pagination 
+**pagination** - `<pagination><li><a href="#">1</a></li></pagination>`  
+**pager** - `<pager><li><a href="#">Previous</a></li><li><a href="#">Next</a></li></pager>` 
+
+## Panels
+
+In the simplest form: `<panel>This content will be placed in the body of the panel</panel>`  
+Add header title and/or footer: `<panel header="Your title" footer="{{footerText}}">Content</panel>`  
 
 ## Misc
 **badge** - `<badge>{{count}}</badge>`  
