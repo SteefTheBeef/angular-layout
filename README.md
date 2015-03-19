@@ -3,6 +3,14 @@
 Directives for common layout components in Twitter bootstrap.   
 Fast and beautiful template building and great for prototyping.
 
+## Installation
+```
+- bower install angular-layout-bootstrap
+- include angular-layout-bootstrap.min.js in your code
+- add angular-layout.bootstrap as a dependency to your app, 
+  example: var app = angular.module('app', ['angular-layout.bootstrap'])
+```
+
 ## Alerts
 **alert success** - `<alert-success>Way to go!</alert-success>`   
 **alert info** - `<alert-info>{{data.info}}</alert-info>`  
