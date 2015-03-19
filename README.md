@@ -22,8 +22,19 @@ Fast and beautiful template building and great for prototyping.
 
 ### Cell sizing and positioning
 
-**lg1** to **lg12** is equivalent to classes col-lg-1 to col-lg-12.  
-Can be used either as an attribute `<cell lg1>` or as a class `<cell class="lg1">`
+**lg1** to **lg12** is equivalent to classes **col-lg-1** to **col-lg-12.**   
+Can be used either as an attribute `<cell lg1>` or as a class `<cell class="lg12">`
+
+**lg-offset1** to **lg-offset12** is equivalent to classes **col-lg-offset-1** to **col-lg-offset-12.**  
+As an attribute `<cell lg-offset1>` or as a class `<cell class="lg-offset12">`
+
+**lg-pull1** to **lg-pull12** is equivalent to classes **col-lg-pull-1** to **col-lg-pull-12.**  
+As an attribute `<cell lg-pull1>` or as a class `<cell class="lg-pull12">`
+
+**lg-push1** to **lg-push12** is equivalent to classes **col-lg-push-1** to **col-lg-push-12.**  
+As an attribute `<cell lg-push1>` or as a class `<cell class="lg-push12">`
+
+**md1-md12, md**
 
 ## Misc
 **badge** - `<badge>{{count}}</badge>`  
