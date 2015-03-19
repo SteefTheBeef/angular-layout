@@ -13,15 +13,15 @@ Fast and beautiful template building and great for prototyping.
 **alert danger** - `<alert-danger>danger zone!</alert-danger>`
 
 ## Form elements
-**form group** - `<form-group>...</form-group>
+**form group** - `<form-group>...</form-group>`
 
-**form horizontal** - `<form-horizontal>...</form-horizontal>
+**form horizontal** - `<form-horizontal>...</form-horizontal>`
 
-**form inline** - `<form-inline>...</form-inline>
+**form inline** - `<form-inline>...</form-inline>`
 
-**input group** - `<input-group>...</input-group>
+**input group** - `<input-group>...</input-group>`
 
-**input group addon** - `<input-group-addon>$<input-group-addon>
+**input group addon** - `<input-group-addon>$<input-group-addon>`
 
 ## Misc
 **badge** - `<badge>{{count}}</badge>`
