@@ -6,7 +6,7 @@
         "Layout",
         "Twitter"
     ],
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "angular-layout-bootstrap.min.js",
     "dependencies": {
         "jquery": "*",
