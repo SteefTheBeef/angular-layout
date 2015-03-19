@@ -10,20 +10,14 @@ Fast and beautiful template building and great for prototyping.
 **alert danger** - `<alert-danger>danger zone!</alert-danger>` 
 
 ## Form elements
-**form group** - `<form-group>...</form-group>`
-
-**form horizontal** - `<form-horizontal>...</form-horizontal>`
-
-**form inline** - `<form-inline>...</form-inline>`
-
-**input group** - `<input-group>...</input-group>`
-
-**input group addon** - `<input-group-addon>$<input-group-addon>`
+**form group** - `<form-group>...</form-group>`    
+**form horizontal** - `<form-horizontal>...</form-horizontal>`  
+**form inline** - `<form-inline>...</form-inline>`  
+**input group** - `<input-group>...</input-group>`  
+**input group addon** - `<input-group-addon>$<input-group-addon>`  
 
 ## Grid elements
-
-**row** - `<row>...</row>`
-
+**row** - `<row>...</row>`  
 **cell** - `<cell>...</cell>`
 
 ### Cell sizing and positioning
@@ -32,23 +26,15 @@ Fast and beautiful template building and great for prototyping.
 Can be used either as an attribute `<cell lg1>` or as a class `<cell class="lg1">`
 
 ## Misc
-**badge** - `<badge>{{count}}</badge>`
-
-**blockquote reverse** - `<blockquote-reverse>text...</blockquote-reverse>`
-
-**breadcrumb** - `<breadcrumb><li>...</li></breadcrumb>`
-
-**caret** - `<caret></caret>`
-
-**container** - `<container></container>`
-
-**container fluid** - `<container-fluid></container-fluid>`
-
-**jumbotron** - `<jumbotron>...content...</jumbotron>`
-
-**page header** - `<page-header>Page title</page-header>`
-
-**well** - `<well>...content...</well>`
+**badge** - `<badge>{{count}}</badge>`  
+**blockquote reverse** - `<blockquote-reverse>text...</blockquote-reverse>`  
+**breadcrumb** - `<breadcrumb><li>...</li></breadcrumb>`  
+**caret** - `<caret></caret>`  
+**container** - `<container></container>`  
+**container fluid** - `<container-fluid></container-fluid>`  
+**jumbotron** - `<jumbotron>...content...</jumbotron>`  
+**page header** - `<page-header>Page title</page-header>`  
+**well** - `<well>...content...</well>`  
 ## Buttons
 
 Buttons are available in four sizes lg, normal, sm and xs
@@ -70,15 +56,11 @@ and so forth...
 
 Add ``-lg``, ``-sm`` or ``-xs`` at the end of the tag for different sizing, this applies to all button types.
 
-**Info button** - `<btn-info>Normal</btn-info>`
+**Info button** - `<btn-info>Normal</btn-info>`  
+**Primary button**- `<btn-primary>Normal</btn-primary>`  
+**Warning button** - `<btn-warning>Normal</btn-warning>`  
+**Button group** - `<btn-group>...</btn-group>`  
 
-**Primary button**- `<btn-primary>Normal</btn-primary>`
-
-**Warning button** - `<btn-warning>Normal</btn-warning>`
-
-**Button group** - `<btn-group>...</btn-group>`
-
-**Button group vertical** - `<btn-group-vertical>...</btn-group-vertical>`
-
-**Button toolbar** - `<btn-toolbar>...</btn-toolbar>` 
+**Button group vertical** - `<btn-group-vertical>...</btn-group-vertical>`  
+**Button toolbar** - `<btn-toolbar>...</btn-toolbar>`     
 
