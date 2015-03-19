@@ -23,6 +23,17 @@ Fast and beautiful template building and great for prototyping.
 
 **input group addon** - `<input-group-addon>$<input-group-addon>`
 
+## Grid elements
+
+**row** - `<row>...</row>`
+
+**cell** - `<cell>...</cell>`
+
+### Cell sizing and positioning
+
+**lg1** to **lg12** is equivalent to classes col-lg-1 to col-lg-12.  
+Can be used either as an attribute `<cell lg1>` or as a class `<cell class="lg1">`
+
 ## Misc
 **badge** - `<badge>{{count}}</badge>`
 
