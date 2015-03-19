@@ -4,13 +4,10 @@ Directives for common layout components in Twitter bootstrap.
 Fast and beautiful template building and great for prototyping.
 
 ## Alerts
-**alert success** - `<alert-success>Way to go!</alert-success>`
-
-**alert info** - `<alert-info>{{data.info}}</alert-info>`
-
-**alert warning** - `<alert-warning>hey, this is not good!</alert-warning>`
-
-**alert danger** - `<alert-danger>danger zone!</alert-danger>`
+**alert success** - `<alert-success>Way to go!</alert-success>`   
+**alert info** - `<alert-info>{{data.info}}</alert-info>`  
+**alert warning** - `<alert-warning>hey, this is not good!</alert-warning>`  
+**alert danger** - `<alert-danger>danger zone!</alert-danger>` 
 
 ## Form elements
 **form group** - `<form-group>...</form-group>`
