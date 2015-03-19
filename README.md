@@ -54,6 +54,15 @@ this is equivalent to
   <div class="col-lg-4 col-sm-2">Right content</div>
 </div>
 ```
+
+## Labels
+**label default** - `<label-default>...</label-default>`    
+**label primary** - `<label-primary>...</label-primary>`    
+**label success** - `<label-success>...</label-success>`    
+**label info** - `<label-info>...</label-info>`    
+**label warning** - `<label-warning>...</label-warning>`    
+**label danger** - `<label-danger>...</label-danger>`    
+
 ## Lists
 **dl horizontal** - `<dl-horizontal><dt>...</dt><dd>...</dd></dl-horizontal>`  
 **list inline** - `<list-inline><li>...</li></list-inline>`  
@@ -93,8 +102,29 @@ In the simplest form: `<progress valuenow="50"></progress>`
 **progress warning** - `<progress-warning></progress-warning>`   
 **progress danger** - `<progress-danger></progress-danger>`  
 
-## Text elements 
+## Text elements  
+All text elements are paragraphs.  
 
+**lead** - `<lead>text</lead>` (leading paragraph with larger text)    
+**text capitalize** - `<text-capitalize>...</text-capitalize>`   
+**text center** - `<text-center>...</text-center>`   
+**text justify** - `<text-justify>...</text-justify>`  
+**text left** - `<text-left>...</text-left>`   
+**text lowercase** - `<text-lowercase>...</text-lowercase>`   
+**text muted** - `<text-muted>...</text-muted>`   
+**text nowrap** - `<text-nowrap>...</text-nowrap>`   
+**text right** - `<text-right>...</text-right>`   
+**text uppercase** - `<text-uppercase>...</text-uppercase>`   
+**text primary** - `<text-primary>...</text-primary>`   
+**text success** - `<text-success>...</text-success>`     
+**text info** - `<text-info>...</text-info>`   
+**text warning** - `<text-warning>...</text-warning>`   
+**text danger** - `<text-danger>...</text-danger>`   
+**bg primary** - `<bg-primary>...</bg-primary>` (background in primary color)  
+**bg success** - `<bg-success>...</bg-success>`   
+**bg info** - `<bg-info>...</bg-info>`   
+**bg warning** - `<bg-warning>...</bg-warning>`   
+**bg danger** - `<bg-danger>...</bg-danger>`   
 
 ## Misc
 **badge** - `<badge>{{count}}</badge>`  
