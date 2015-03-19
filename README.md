@@ -1,4 +1,4 @@
-# angular-layout
+# angular-layout-bootstrap
 
 Directives for common layout components in Twitter bootstrap.   
 Fast and beautiful template building and great for prototyping.
