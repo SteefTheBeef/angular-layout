@@ -66,7 +66,25 @@ this is equivalent to
 ## Panels
 
 In the simplest form: `<panel>This content will be placed in the body of the panel</panel>`  
-Add header title and/or footer: `<panel header="Your title" footer="{{footerText}}">Content</panel>`  
+Add header title and/or footer: `<panel header="Your title" footer="{{footerText}}">Content</panel>`
+
+Available panels:  
+**panel default** - `<panel>...</panel>`  
+**panel primary** - `<panel-primary>...</panel-primary>`  
+**panel success** - `<panel-success>...</panel-success>`  
+**panel info** - `<panel-info>...</panel-info>`  
+**panel warning** - `<panel-warning>...</panel-warning>`   
+**panel danger** - `<panel-danger>...</panel-danger>`  
+
+## Progress bar
+In the simplest form: `<progress valuenow="50"></progress>` 
+
+**Available attributes (with example values)**  
+**valuemin="10"** - set custom min value, set to 0 by default.  
+**valuemax="3450"** - set custom max value, set to 100 by default.     
+**label="true"** - show the current value as a number, which is not visible by default.  
+**striped="true"** - show stripes.    
+**active="true"** - animate stripes when **striped** is set to **true**  
 
 ## Misc
 **badge** - `<badge>{{count}}</badge>`  
