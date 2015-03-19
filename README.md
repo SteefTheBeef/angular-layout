@@ -146,7 +146,7 @@ All text elements are paragraphs.
 **well** - `<well>...content...</well>`  
 ## Buttons
 
-Buttons are available in four sizes lg, normal, sm and xs
+Buttons are available in four sizes
 
 #### Danger button
 ```
@@ -155,11 +155,6 @@ Buttons are available in four sizes lg, normal, sm and xs
 <btn-danger-sm>Small</btn-danger-sm>
 <btn-danger-xs>Extra small</btn-danger-xs>
 ```
-Instead of this
-```
-<button type="button" class="btn btn-danger btn-lg">Large</button>
-```
-and so forth...
 
 **Default button** - `<btn-default>Normal</btn-default>`
 
